@@ -1,0 +1,9 @@
+<Module>
+<ModulePrefs title= "Pong Gadget"/>
+<Content type= "html">
+<![CDATA[
+<script language=javascript" type="text/javascript" src="https://sites.google.com/site/experimentsinjs/home/pong/p5.js"></script>
+<script language=javascript" type="text/javascript" src="https://sites.google.com/site/experimentsinjs/home/pong/p5jsPong.js"></script>
+]]>
+</Content>
+</Module>
